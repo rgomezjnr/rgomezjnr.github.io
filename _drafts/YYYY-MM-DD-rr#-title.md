@@ -7,9 +7,9 @@ tags:
 <link rel="stylesheet" href="/assets/css/monokai.css">
 
 ## Table of Contents
-- [Topics](#topics)
-- [Intro](#intro)
-- [References](#references)
+1. [Topics](#topics)
+2. [Intro](#intro)
+3. [References](#references)
 
 ## Topics
 - 
