@@ -21,9 +21,8 @@
 title: robsrant.io
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A short blog on tech, software engineering, test automation, UI/UX. I'll usually
-  complain about something that bugs me, then share actionable solutions I've found
-  that fixes it.
+  An opinionated blog on tech, software engineering, test automation, and UX. I'll usually
+  complain about something that bugs me, then share solutions to fix it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://robsrant.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rgomezjnr
