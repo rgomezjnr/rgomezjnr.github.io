@@ -6,8 +6,7 @@ permalink: /about/
 
 I received my B.S. in Computer Engineering from San Diego State University in 2014.
 
-I've proudly contributed to critical industries such as diabetes medical devices, satellite
-communications, computing, and defense.
+I have more than six years of hands-on engineering experience in critical industries such as medical devices, satellite communications, computing, and defense.
 
 I'm currently working at [Tandem Diabetes Care](https://www.tandemdiabetes.com) as a Software
 Engineer in Test Automation. As a test lead I write automated test scripts for the
